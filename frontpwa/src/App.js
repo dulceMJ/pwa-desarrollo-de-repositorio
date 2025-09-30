@@ -4,7 +4,7 @@ import { openDB } from 'idb';
 function SplashScreen() {
   return (
     <div style={{
-      background: "#000",
+      background: "#fff",
       color: "#fff",
       height: "100vh",
       display: "flex",
